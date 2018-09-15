@@ -1,4 +1,4 @@
-# CodePathPreAssugmnet
+# CodePathPreAssignment
 My first repository on GitHub
 ## myapplication
 

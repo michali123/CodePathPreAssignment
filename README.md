@@ -6,7 +6,7 @@ My first repository on GitHub
 `TODO://`The app changes text color.
 
 ### App Walk-though
-`TODO://`
+`TODO://` The gif. is uploaded to this Repo. on GitHub
 
 <img src="https://imgur.com/BCXXLEA" width=200><br>
 

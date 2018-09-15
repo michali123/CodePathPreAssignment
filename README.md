@@ -8,7 +8,7 @@ My first repository on GitHub
 ### App Walk-though
 `TODO://` The gif. is uploaded to this Repo. on GitHub
 
-<img src="https://imgur.com/BCXXLEA" width=200><br>
+<img src="https://i.imgur.com/BCXXLEA.gif" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!

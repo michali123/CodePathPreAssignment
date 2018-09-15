@@ -8,7 +8,7 @@ My first repository on GitHub
 ### App Walk-though
 `TODO://`
 
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/90pqR2O"><a href="//imgur.com/90pqR2O"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/90pqR2O"><a href="//imgur.com/90pqR2O">CodePath Michal Moryosef</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!

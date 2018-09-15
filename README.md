@@ -8,7 +8,7 @@ My first repository on GitHub
 ### App Walk-though
 `TODO://`
 
-<img src="https://photos.app.goo.gl/Txw4ss1Pup3h5JWJ9" width=200><br>
+<img src="https://photos.app.goo.gl/mu7Vxn3gsR51jL987" width=200><br>
 
 ### Required User Stories
 - [X] 1. User sees custom text in a label - Hello from {name}!
